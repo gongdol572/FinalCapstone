@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".reListView">
+
+
+    <TextView
+
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/good"
+        android:text="강의실 위치 지도"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:padding="20dp"
+
+        android:textSize="20sp"
+        android:background="#CCCCFF"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+    <Spinner
+        android:fontFamily="@font/good"
+        android:id="@+id/spinner1"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_margin="30dp"
+        android:entries="@array/floor2" />
+
+    <Spinner
+        android:fontFamily="@font/good"
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_margin="30dp"
+        android:visibility="invisible"
+        android:entries="@array/room" />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="319dp"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:src="@drawable/y9200"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="화면 터치 하기 (예약하기 이동)"
+        android:textSize="20dp"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/good"
+        android:textStyle="bold"
+        android:background="#EEEEFF">
+
+    </TextView>
+
+
+</LinearLayout>

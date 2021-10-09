@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCCCFF"
+
+
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#FFFFFF"
+        android:fontFamily="@font/good"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="자연계 캠퍼스"
+
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:textStyle="bold" />
+
+
+
+    <Button
+        android:id="@+id/d1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="함박관"
+        android:fontFamily="@font/good"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:background="#EEFFFF">
+
+    </Button>
+
+    <Button
+        android:id="@+id/d2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="교양관"
+        android:fontFamily="@font/good"
+        android:gravity="center"
+        android:layout_margin="5dp"
+
+        android:background="#EEFFFF">
+
+    </Button>
+    <Button
+        android:id="@+id/d3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="제1공학관"
+        android:fontFamily="@font/good"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:background="#EEFFFF">
+
+    </Button>
+    <Button
+        android:id="@+id/d4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="제2공학관"
+        android:fontFamily="@font/good"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:background="#EEFFFF">
+
+    </Button>
+    <Button
+        android:id="@+id/d5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="제3공학관"
+        android:fontFamily="@font/good"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:background="#EEFFFF">
+
+    </Button>
+
+    <Button
+        android:id="@+id/d6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="제4공학관"
+        android:fontFamily="@font/good"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:background="#EEFFFF">
+
+    </Button>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bm"
+        android:id="@+id/building">
+
+
+    </ImageView>
+
+
+
+
+
+</LinearLayout>

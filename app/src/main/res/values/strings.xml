@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MJU빈강의실</string>
+    <string name="hint_id">포털 아이디</string>
+    <string name="hint_password">비밀번호</string>
+    <string name="hint_name">성명을 입력하세요</string>
+    <string name="hint_mobileNO">휴대폰번호를 입력하세요</string>
+    <string name="hint_email">이메일을 입력하세요</string>
+    <string name="btn_login">로그인</string>
+    <string name="btn_register">회원가입</string>
+    <string name="btn_logout">로그아웃</string>
+    <string name="timetable">09:00:00</string>
+</resources>

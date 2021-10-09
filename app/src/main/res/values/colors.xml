@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#26ae90</color>
+    <color name="bg_main">#428bca</color>
+
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#222222</color>
+    <color name="input_register_bg">#ffffff</color>
+    <color name="input_register_hint">#999999</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+
+    <color name="colorPrimary">#bbdefb</color>
+    <color name="colorPrimaryDark">#8aacc8</color>
+    <color name="colorAccent">#bbdefb</color>
+    <color name="colorPrimaryLight">#eeffff</color>
+    <color name="default_background_color">#fafafa</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#fdd835</color>
+    <color name="orange">#ff6d00</color>
+    <color name="heart_red">#f05228</color>
+    <color name="delete_post_red">#f50057</color>
+    <color name="heart_hot_pink">#e04f5f</color>
+    <color name="heart_pink">#f48fb1</color>
+    <color name="heart_light_pink">#ffc7e1</color>
+    <color name="heart_color">@color/heart_pink</color>
+    <color name="bright_gray">#e0e0e0e0</color>
+    <color name="tab_icon_color">#3f1dcb</color>
+    <color name="community_fragment_background">#e5e5e5</color>
+    <color name="room_available_color">#00c853</color>
+    <color name="room_not_available_color">#d50000</color>
+    <color name="color_tab_1">#5C6D7B</color>
+    <color name="color_tab_2">#5C6D7B</color>
+    <color name="color_tab_3">#5C6D7B</color>
+    <color name="color_tab_4">#5C6D7B</color>
+    <color name="color_tab_5">#5C6D7B</color>
+
+    <color name="color_notification_back">#ffcd33</color>
+    <color name="color_notification_text">#3E4757</color>
+
+    <array name="tab_colors">
+        <item name="tab_1">#5C6D7B</item>
+        <item name="tab_2">#5C6D7B</item>
+        <item name="tab_3">#5C6D7B</item>
+        <item name="tab_4">#5C6D7B</item>
+        <item name="tab_5">#5C6D7B</item>
+    </array>
+
+    <color name="activity_default_color">#eeeeee</color>
+
+    <color name="grade_list_header_border">#bdbdbd</color>
+    <color name="grade_list_border">#d8d8d8</color>
+    <color name="grade_list_text">#6e6e6e</color>
+    <color name="grade_list_grade">#FF4000</color>
+
+
+
+</resources>

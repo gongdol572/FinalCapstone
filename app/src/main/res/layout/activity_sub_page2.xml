@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <View
+
+        android:layout_width="match_parent"
+
+        android:layout_height="10dp"
+
+        android:background="#CCCCFF"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="191dp" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="74dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:fontFamily="@font/good"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="        Myongji university"
+
+            android:textSize="30dp"/>
+
+
+    </FrameLayout>
+    <View
+
+        android:layout_width="match_parent"
+
+        android:layout_height="10dp"
+
+        android:background="#CCCCFF"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="191dp" />
+
+
+    <Button
+        android:id="@+id/btn2"
+        android:fontFamily="@font/good"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="빈강의실 조회 및 예약"
+        android:textSize="20dp"
+        android:background="#CCCCFF"
+        android:layout_margin="30dp"/>
+
+    <Button
+        android:fontFamily="@font/good"
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="편의 시설 위치"
+        android:textSize="20dp"
+        android:background="#CCCCFF"
+        android:layout_margin="30dp"/>
+</LinearLayout>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department" >
+        <item>함박관</item>
+        <item>교양관</item>
+        <item>1공학관</item>
+        <item>2공학관</item>
+        <item>3공학관</item>
+        <item>4공학관</item>
+        <item>5공학관</item>
+    </string-array>
+    <string-array name ="floor2">
+        <item>2F</item>
+        <item>1F</item>
+        <item>3F</item>
+        <item>4F</item>
+        <item>5F</item>
+        <item>6F</item>
+
+    </string-array>
+    <string-array name="room" >
+        <item>Y9201</item>
+        <item>Y9203</item>
+        <item>Y9205</item>
+        <item>Y9206</item>
+        <item>Y9207</item>
+        <item>Y9212</item>
+        <item>Y9214</item>
+        <item>Y9216</item>
+        <item>Y9222</item>
+        <item>Y9224</item>
+        <item>Y9226</item>
+        <item>Y9228</item>
+        <item>Y9230</item>
+        <item>Y9232</item>
+        <item>Y9236</item>
+
+
+    </string-array>
+
+    <string-array name="floor">
+
+        <item>B1층</item>
+        <item>1층</item>
+        <item>2층</item>
+        <item>3층</item>
+        <item>4층</item>
+        <item>5층</item>
+    </string-array>
+
+
+
+    <string-array name="StartReservation">
+        <item>09:00:00</item>
+        <item>10:00:00</item>
+        <item>11:00:00</item>
+        <item>12:00:00</item>
+        <item>13:00:00</item>
+        <item>14:00:00</item>
+        <item>15:00:00</item>
+        <item>16:00:00</item>
+        <item>17:00:00</item>
+        <item>18:00:00</item>
+        <item>19:00:00</item>
+        <item>20:00:00</item>
+    </string-array>
+
+    <string-array name="EndReservation">
+        <item>09:50:00</item>
+        <item>10:50:00</item>
+        <item>11:50:00</item>
+        <item>12:50:00</item>
+        <item>13:50:00</item>
+        <item>14:50:00</item>
+        <item>15:50:00</item>
+        <item>16:50:00</item>
+        <item>17:50:00</item>
+        <item>18:50:00</item>
+        <item>19:50:00</item>
+        <item>20:50:00</item>
+    </string-array>
+
+    <string-array name="lectureroom">
+        <item>Y9001</item>
+        <item>Y9006</item>
+        <item>Y9010</item>
+        <item>Y9027</item>
+        <item>Y9014</item>
+        <item>Y9029</item>
+        <item>Y9035</item>
+        <item>Y9101</item>
+        <item>Y9106</item>
+        <item>Y9110</item>
+        <item>Y9114</item>
+        <item>Y9119</item>
+        <item>Y9125</item>
+        <item>Y9129</item>
+        <item>Y9201</item>
+        <item>Y9203</item>
+        <item>Y9230</item>
+        <item>Y9232</item>
+        <item>Y9236</item>
+        <item>Y9238</item>
+        <item>Y9401</item>
+        <item>Y9428</item>
+        <item>Y9501</item>
+        <item>Y9503</item>
+        <item>Y9508</item>
+        <item>Y9515</item>
+        <item>Y9517</item>
+        <item>Y9519</item>
+        <item>Y9522</item>
+        <item>Y9524</item>
+        <item>Y9528</item>
+        <item>Y9530</item>
+    </string-array>
+    <string-array name="week">
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+    </string-array>
+</resources>

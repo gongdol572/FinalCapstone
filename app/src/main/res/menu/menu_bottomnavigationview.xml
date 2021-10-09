@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/t1"
+        android:orderInCategory="100"
+        android:title="빈 강의실 확인"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/t2"
+        android:orderInCategory="100"
+        android:title="예약하기"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/t3"
+        android:orderInCategory="100"
+        android:title="로그인/로그아웃"
+        app:showAsAction="never" />
+</menu>
